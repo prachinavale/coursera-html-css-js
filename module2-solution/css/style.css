@@ -22,11 +22,14 @@ h1{
 
 .content{
 	overflow: none;
+	text-align: center;
 	border: 2px solid black;
+	width: 100px;
+	height: 40px;
 	padding: 5px;
 	float: right;
-	margin-top: 0;
 	margin-right: 20px;
+	margin-top: 0;
 	position: relative;
 }
 
