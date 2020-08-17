@@ -1,2 +1,2 @@
 # coursera-html-css-js
-coursea html css js Assgm
+HTML, CSS and Javascript for Web Developers Course
