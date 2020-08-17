@@ -3,7 +3,7 @@ HTML, CSS and Javascript for Web Developers by Johns Hopkins University - Course
 ***
 This repository contains my solutions to Module 2 Assignment 
 ***
-**Assignment Link**
+**Assignment Link**\
 1.[Module 2 Assignment]()
-**Solutions**
+**Solutions**\
 1.[Module 2 Solution]()
