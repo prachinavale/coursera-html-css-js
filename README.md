@@ -6,4 +6,4 @@ This repository contains my solutions to Module 2 Assignment
 **Assignment Link**\
 1.[Module 2 Assignment](https://github.com/prachinavale/coursera-html-css-js/tree/gh-pages/module2-solution)\
 **Solutions**\
-1.[Module 2 Solution]()
+1.[Module 2 Solution](https://prachinavale.github.io/coursera-html-css-js/module2-solution/index.html)
