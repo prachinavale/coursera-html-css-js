@@ -1,0 +1,78 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	font-size: 20px;
+	background-color: #250033;
+	font-family: Georgia, serif;
+	color: white;
+}
+
+/**HEADER Styling**/
+#header-nav{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #ff8080;
+	border: 1px solid black;
+}
+.navbar-brand a{
+	font-size: 1.5em;
+	font-family: Stencil Std, fantasy;
+	padding-left: 15px;
+	text-decoration: none;
+	color: #ccff66;
+}
+.navbar-collapse{
+	border-top: 0;
+}
+#nav-list{
+	margin-top: 10px;
+}
+#nav-list a{
+	color: #ccff66;
+	text-align: center;
+}
+#nav-list a:hover{
+	background: black;
+}
+.navbar-header button.navbar-toggle, .navbar-header .iconbar{
+	border: 1px solid #ccff66;
+}
+hr{
+	width: 80%;
+	border: 1.2px solid black;
+}/**End of Header Style**/
+
+/**Main Body**/
+#main-content h1{
+	text-align: center;
+}
+.box{
+	position: relative;
+	background-color: #ccff66;
+	height: 750px;
+	border: 1px solid #ff8080;
+	color: black;
+	font-size: .8em;
+	margin: 30px auto;
+	box-shadow: 0 0 15px #cccccc;
+}
+.box h3{
+	text-align: center;
+}
+.box p{
+	padding: 20px;
+}
+#endline{
+	position: absolute;
+	bottom: 10px;
+	padding-left: 20px;
+	font-size: .8em;
+}
+
+/**Extra Small Device**/
+@media (max-width: 767px){
+	.box{
+		width: 80%;
+	}
+}
